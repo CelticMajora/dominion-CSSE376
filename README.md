@@ -1,3 +1,8 @@
+# dominion-CSSE376
+CSSE376 Term Project - Spring 2017-2018
+
+My group for this project was Keith Hanson, Andy Sadler, and Nic Baker
+
 # Definition of Done
 
 - [x] Have a game the chooses a winner once 3 or more of the supply piles run
